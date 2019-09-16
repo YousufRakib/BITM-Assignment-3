@@ -1,0 +1,9 @@
+E:\BITM\Class 3\Assignment\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+E:\BITM\Class 3\Assignment\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+E:\BITM\Class 3\Assignment\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+E:\BITM\Class 3\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+E:\BITM\Class 3\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.CustomerForm.resources
+E:\BITM\Class 3\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+E:\BITM\Class 3\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.Cache
+E:\BITM\Class 3\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+E:\BITM\Class 3\Assignment\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
